@@ -33,7 +33,7 @@ Após isso, será exibida a última tela, onde você poderá visualizar o status
 ![Tela de Login](Imagens/Print_Login.png)
 
 ### Cadastro de Pedido
-![Cadastro de Pedido](Imagens/Print_Cadastro_Pedido.png)
+![Cadastro de Pedido](Imagens/Print_Cadastro_Pedido.jpg)
 
 ### Lista de Pedidos
 ![Lista de Pedidos](Imagens/Print_Status_Pedidos.png)
