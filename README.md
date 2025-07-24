@@ -1,4 +1,4 @@
-# Projeto de Pizzaria
+# 🍕 Projeto de Pizzaria
 
 Projeto desenvolvido em Java utilizando a IDE NetBeans.  
 Sistema automatizado para gerenciar pedidos e clientes de uma pizzaria.
@@ -41,3 +41,4 @@ Após isso, será exibida a última tela, onde você poderá visualizar o status
 ---
 
 Desenvolvido por **Danilo Malheiro**
+🔗 [LinkedIn](www.linkedin.com/in/danilomalheiro)
