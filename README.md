@@ -30,7 +30,7 @@ Após isso, será exibida a última tela, onde você poderá visualizar o status
 ## 🖼️ Prints do Projeto
 
 ### Tela de Login
-![Tela de Login](Imagens/Print_Login.png)
+![Tela de Login](Imagens/Print_Login.jpg)
 
 ### Cadastro de Pedido
 ![Cadastro de Pedido](Imagens/Print_Cadastro_Pedido.jpg)
